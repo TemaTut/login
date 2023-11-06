@@ -20,3 +20,26 @@
 
 Для отображения ошибок при некорректных значениях, откройте панель разработчика.
 Удачной работы с проектом!
+
+# Project Installation Instructions
+
+To work with this project, you need `node.js` and `npm`. Please ensure they are installed on your computer.
+
+## Installation Steps:
+
+1. Copy the repository link.
+2. Open the terminal on your computer and clone the repository using the command:
+
+"git clone https://github.com/TemaTut/login.git"
+
+3. Change to the project directory: `cd ./login/`
+4. Install all the project dependencies using the command: `npm i --legacy-peer-deps`
+5. To start the project, use the command: `npm start`
+6. When testing, use the following values for the input fields:
+
+#### In the "name" field: "name"
+
+#### In the email field: "test@gmail.com"
+
+To display errors for incorrect values, open the developer console.
+Wishing you successful work on the project!
